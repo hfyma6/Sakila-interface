@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	background-image: url(../image/background.jpg);
+	font-family: 'Papyrus', serif;
+	font-weight: 25;
+	font-color: black;
+	
+}
+a {
+  color: white;
+  text-decoration:none;
+}
